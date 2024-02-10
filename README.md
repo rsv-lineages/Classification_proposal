@@ -1,4 +1,4 @@
-#This repository contains the results described in the article "The unified proposal for classification of human respiratory syncytial virus below the subgroup level"
+This repository contains the results described in the article **"The unified proposal for classification of human respiratory syncytial virus below the subgroup level"**
 
 Full-genomes-trees: contains the maximum likelihood trees reconstrusted with the complete genome dataset used for the classification
 
