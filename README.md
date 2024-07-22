@@ -1,4 +1,4 @@
-# A unified nomenclature for RSV-lineages
+# Standardized Phylogenetic Classification of Human Respiratory Syncytial Virus below the Subgroup Level
 
 This repository contains the results described in the article [**"Standardized Phylogenetic Classification of Human Respiratory Syncytial Virus below the Subgroup Level"**] (https://wwwnc.cdc.gov/eid/article/30/8/24-0209_article) published on Emerging Infectious Diseases in July 2024.
 
